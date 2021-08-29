@@ -5,3 +5,8 @@
     height: 100vh;
     width: 100%;
 }
+
+.home h1 {
+    font-size: 75px;
+    color: #f58820;
+}
